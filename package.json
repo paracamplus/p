@@ -20,6 +20,7 @@
         "events": "^3.2.0",
         "node-fetch": "^2.6.1",
         "polka": "next",
+        "serverless-http": "^2.6.1",
         "sirv": "^1.0.10"
     },
     "devDependencies": {
